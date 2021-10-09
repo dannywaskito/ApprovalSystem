@@ -1,4 +1,4 @@
-Buat Database dengan nama testproject
-Jalankan php artisan migrate untuk membuat tabel.
-Jalankan php artisan db:seed untuk insert record.
-Jalankan php artisan serve untuk jalankan web nya.
+Buat Database dengan nama testproject <br>
+Jalankan php artisan migrate untuk membuat tabel. <br>
+Jalankan php artisan db:seed untuk insert record. <br>
+Jalankan php artisan serve untuk jalankan web nya. <br>
